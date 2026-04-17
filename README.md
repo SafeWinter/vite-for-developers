@@ -10,6 +10,13 @@
 
 讲师：**Alex Dan**（详见 [Udemy 官方简介](https://www.udemy.com/user/alexhorea/)）。
 
+录制时间：`2025.06`
+
+工具版本：
+
+- `NodeJS`：`v22.12.0`
+- `NPM`：`11.4.1`
+
 
 
 ## 2 课程目录
